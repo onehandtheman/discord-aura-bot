@@ -11,7 +11,7 @@ const client = new Client({
   ]
 });
 
-const TOKEN = 'MTM4NzI4NjQyMzMzMzUwNzA5Mg.GVud92.cHwz1OrkerV8fh5nGE4O9XNhATaIntdOh25wC8'; // Replace with your bot token
+const TOKEN = ''; // Replace with your bot token
 const TARGET_USER_ID = '1136069725546352681'; // The user to kick with ?kars or kickkars
 const ALLOWED_ROLE_NAMES = ['Game Owner']; // Roles allowed to use ?kars and aura shop kickkars
 const AURA_CHAT_CHANNEL_ID = '1398864133520097340';
